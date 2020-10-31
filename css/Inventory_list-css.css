@@ -1,0 +1,74 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+	box-sizing: border-box;
+}
+body {
+	background-image: url("img/InvList.jpg") !important;
+	width: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: grid;
+}
+.w3-top {
+	background-color: #ffc107 !important ;
+}
+#mySidebar {
+	margin-top: 100px;
+	opacity: 0.7;
+}
+#bar-header {
+	margin-bottom: 0px !important;
+}
+h4 {
+	margin-left: 20px;
+	margin-bottom: -30px;
+	font-size:25px;
+}
+h5 {
+	margin-left: 45px;
+	margin-bottom: 5px;
+	font-size: 20px;
+}
+h6 {
+	margin-bottom: 20px;
+}
+hr {
+	height: 10px;
+}
+title{
+	background-color: rgba(211,211,211, 0.2) !important;
+	margin-top: -5px;
+	margin-left: -16px;
+	padding: 10px;
+}
+.w3-bar-item {
+	opacity: 1;
+}
+#company-title {
+	color: black;
+	height: 80px;
+	padding: 20px;
+}
+#Customer-content {
+	margin-top: 40px;
+	font-color: black;
+	margin-left: -50px;
+}
+#ContactUs {
+	margin-top: -30px !important;
+}
+.register-field {
+	border: none;
+	border-bottom: 1px solid #3a3a3a;
+  	margin-bottom: 10px;
+  	border-radius: 3px;
+  	outline: none;
+  	padding: 0px 0px 0px 5px;
+ }
+ #Order {
+ 	background-color: teal; 
+ }

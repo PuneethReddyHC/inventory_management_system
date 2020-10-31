@@ -1,0 +1,126 @@
+* {
+	margin: 0px;
+	height: 100%;
+	position: relative;
+	box-sizing: border-box;
+}
+body {
+	font-family: Arial, Times-New-Roman;
+	background-image: url("img/background.jpg");
+	height: 100%;
+	margin: 0;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: grid;
+	justify-items: center;
+	align-items: center;
+}
+#main-holder {
+	width: 50%;
+	height: 230px;
+	display: grid;
+	padding: 5px 10px;
+	justify-items: center;
+	background-color: white;
+	opacity: 0.5;
+	border-radius: 15px;
+	box-shadow: 0px 0px 5px 2px black;
+}
+#main-holder:hover {
+	opacity: 0.7;
+}
+#login-error-msg-holder {
+	width: 100%;
+	height: 100%;
+	display: grid;
+	justify-items: center;
+	align-items: center;
+}
+#login-header {
+	margin-bottom: -50px;
+	margin-top: 10px;
+}
+#login-error-msg {
+	width: 32%;
+	height: 44%;
+	margin-top: 30px;
+	text-align: center;
+	padding: 5px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #8a0000;
+	border: 1px solid #8a0000;
+	background-color: #e58f8f;
+	opacity: 0.0;
+}
+#login-form {
+	align-self: flex-start;
+	display: grid;
+	justify-items: center;
+	align-items: center;
+}
+.login-field::placeholder {
+	color: #3a3a3a;
+}
+.login-field {
+	border: none;
+	border-bottom: 1px solid #3a3a3a;
+  	margin-bottom: 10px;
+  	border-radius: 3px;
+  	outline: none;
+  	padding: 0px 0px 0px 5px;
+}
+#login-submit {
+	width: 60%;
+	padding: 7px;
+	border: none;
+	border-radius: 3px;
+	color: white;
+	font-weight: bold;
+	background-color: #3a3a3a;
+	cursor: pointer;
+	outliner: none;
+}
+#login-submit:hover {
+	opacity: 1;
+	width : 90%;
+	height: 100%;
+	border: none;
+	border-radius: 3px;
+	font-size: 16px;
+}
+#Register {
+	margin-top: 13px;
+	margin-bottom: -3px;
+}
+a:hover {
+	opacity: 1;
+	color: red;
+}
+a:link {
+	color: red;
+	text-decoration: none;
+}
+@media(max-width: 482px) {
+	#main-holder {
+		width: 85%;
+		height: 30%;
+}
+	#login-error-msg {
+		width: 33%;
+}
+}
+.login-field-error::placeholder {
+	color: red;
+	opacity: 1;
+}
+.login-field-error {
+	border: none;
+	border-bottom: 1px solid #3a3a3a;
+  	margin-bottom: 10px;
+  	border-radius: 3px;
+  	outline: none;
+  	padding: 0px 0px 0px 5px;
+}
