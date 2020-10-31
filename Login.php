@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Order Management System-Login</title>
-	<link rel="stylesheet" type="text/css" href="https://projectstaticfiles.s3.amazonaws.com/css/Login-css.css"/>
+	<link rel="stylesheet" type="text/css" href="https://order-mgmt-project.s3.amazonaws.com/css/Login-css.css"/>
 	
 </head>
 <body>
@@ -24,7 +24,7 @@
 		</form>
 	</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-	<script src="https://projectstaticfiles.s3.amazonaws.com/js/login.js"></script>
+	<script src="https://order-mgmt-project.s3.amazonaws.com/js/login.js"></script>
 
 </body>
 </html>

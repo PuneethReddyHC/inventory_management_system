@@ -5,7 +5,7 @@
 	box-sizing: border-box;
 }
 body {
-	background-image: url("https://projectstaticfiles.s3.amazonaws.com/img/container1.jpg") !important;
+	background-image: url("https://order-mgmt-project.s3.amazonaws.com/img/container1.jpg") !important;
 	width: 100%;
 	background-attachment: fixed;
 	background-position: center;
