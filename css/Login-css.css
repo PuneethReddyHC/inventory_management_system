@@ -6,7 +6,7 @@
 }
 body {
 	font-family: Arial, Times-New-Roman;
-	background-image: url("img/background.jpg");
+	background-image: url("https://projectstaticfiles.s3.amazonaws.com/img/background.jpg");
 	height: 100%;
 	margin: 0;
 	background-attachment: fixed;

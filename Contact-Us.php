@@ -8,7 +8,7 @@ session_start();
 		<title>Order Management System-ContactUs</title>
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
-	<link rel="stylesheet" type="text/css" href="css/Contact-Us-css.css"/>
+	<link rel="stylesheet" type="text/css" href="https://projectstaticfiles.s3.amazonaws.com/css/Contact-Us-css.css"/>
 </head>
 <body>
 	<div class="w3-top" id="Header">

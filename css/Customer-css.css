@@ -5,7 +5,7 @@
 	box-sizing: border-box;
 }
 body {
-	background-image: url("img/C_img.jpg") !important;
+	background-image: url("https://projectstaticfiles.s3.amazonaws.com/img/C_img.jpg") !important;
 	width: 100%;
 	background-attachment: fixed;
 	background-position: center;

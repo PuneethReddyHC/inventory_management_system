@@ -6,7 +6,7 @@
 		<title>Order Management System-Customer-EditDetails</title>
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
-	<link rel="stylesheet" type="text/css" href="css/Edit-Details-css.css"/>
+	<link rel="stylesheet" type="text/css" href="https://projectstaticfiles.s3.amazonaws.com/css/Edit-Details-css.css"/>
 	
 </head>
 <body>
@@ -42,6 +42,6 @@
 	</div>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="js/register.js"></script>
+<script src="https://projectstaticfiles.s3.amazonaws.com/js/register.js"></script>
 
 </body>

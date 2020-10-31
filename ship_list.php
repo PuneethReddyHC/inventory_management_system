@@ -6,8 +6,8 @@
 		<title>Order Management System-Customer-Inventory</title>
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
-	<link rel="stylesheet" type="text/css" href="css/order_lis-css.css"/>
-	<script defer src="js/sales_Modify-js.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://projectstaticfiles.s3.amazonaws.com/css/order_lis-css.css"/>
+	<script defer src="https://projectstaticfiles.s3.amazonaws.com/js/sales_Modify-js.js"></script>
 </head>
 <body>
 	<div class="w3-top" id="Header">
