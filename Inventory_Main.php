@@ -27,8 +27,8 @@ if(isset($_POST['product_insert'])){ //check if form was submitted
 		<title>Order Management System-Customer-Inventory</title>
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
-	<link rel="stylesheet" type="text/css" href="https://order-mgmt-project.s3.amazonaws.com/css/Inventory_Main-css.css"/>
-	<script defer src="https://order-mgmt-project.s3.amazonaws.com/js/Customer_Edit-js.js"></script>
+	<link rel="stylesheet" type="text/css" href="./css/Inventory_Main-css.css"/>
+	<script defer src="./js/Customer_Edit-js.js"></script>
 </head>
 <body>
 	<div class="w3-top" id="Header">

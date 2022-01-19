@@ -14,7 +14,7 @@
 }
 body {
 	font-family: Arial, Times-New-Roman;
-	background-image: url("https://order-mgmt-project.s3.amazonaws.com/img/background.jpg");
+	background-image: url("./img/background.jpg");
 	height: 100%;
 	margin: 0;
 	background-attachment: fixed;
@@ -157,7 +157,7 @@ a:link {
 		</form>
 	</div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://order-mgmt-project.s3.amazonaws.com/js/register.js"></script>
+<script src="./js/register.js"></script>
 
 </body>
 </html>
